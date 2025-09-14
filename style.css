@@ -176,7 +176,7 @@
 .hero-section{
     background-image: url("./images/amazonHOme.jpg");
     height: 300px;
-    width: 1500px;
+    width: 100%;
     background-size: cover;
 }
 .mobile {
@@ -346,3 +346,4 @@
     justify-content: flex-start;
     gap: 10px;
 }
+
